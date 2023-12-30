@@ -3,3 +3,4 @@ naver = 751000;
 
 sum = (daum*100) + (naver*20);
 print(sum);
+print(sum);
